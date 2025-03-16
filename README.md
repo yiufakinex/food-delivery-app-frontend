@@ -4,15 +4,34 @@
 
 <ol>
   <li><a href="#about">About</a></li>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#deployment">Deployment</a></li>
   <li><a href="#demo">Demo</a></li>
 </ol>
 
 ## About
 
-This is a comprehensive food delivery app created using React, TypeScript, and Vite for the frontend, featuring secure user authentication with JWT, seamless OAuth registration, and personalized user profiles. The app includes robust search, sorting, filtering, and pagination to enhance user experience in discovering restaurants and cuisines. Restaurant management is streamlined with tools for listing, menu updates, and image uploads. Users can efficiently manage their carts and process payments through Stripe, with real-time order status updates.
+This is a food delivery application created using React/TypeScript in the frontend. Users can create accounts via Auth0, browse restaurants, order food, and complete checkout with Stripe.
+
+## Features
+
+- Auth0 authentication
+- Restaurant browsing and search
+- Food ordering system
+- Shopping cart functionality
+- Stripe payment integration
+- Order status tracking
+- User profile management
+- Responsive design for mobile and desktop
+
+## Deployment
+
+- Hosted on AWS EC2
+- Nginx for static file serving
+- HTTPS/SSL encryption with Let's Encrypt
+- Secure payment processing
+- DuckDNS domain integration
 
 ## Demo
 
-![image](https://github.com/yiufakinex/food-delivery-app-frontend)
-
-<br>
+[Live Demo](https://fooddeli.duckdns.org)
