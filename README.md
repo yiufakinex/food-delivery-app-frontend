@@ -33,10 +33,6 @@ This is a food delivery application created using React/TypeScript in the fronte
 - DuckDNS domain integration
 
 ## Demo
-
-<<<<<<< HEAD
-=======
 ![Food Delivery App Demo](https://res.cloudinary.com/dls9pinnl/image/upload/t_chatappresize/v1716250047/desertgo_vljrlt.jpg)
 
->>>>>>> main
 [Live Demo](https://fooddeli.duckdns.org)
